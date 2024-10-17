@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a91eb881-f7e6-40ac-a7cc-ea7d3cb31059",
+    "album": "Toto IV",
+    "artist": "Evanescence",
+    "genre": "West Coast Rap",
+    "songName": "Wake Me Up Before You Go Go"
+  },
+  {
+    "id": "71403b2f-a890-42fa-8626-65127fc90bf9",
+    "album": "Delta",
+    "artist": "Nancy Sinatra",
+    "genre": "Modern",
+    "songName": "I Swear"
+  },
+  {
+    "id": "7572333e-2b0d-4205-9c78-055573b2aeb9",
+    "album": "Ao Vivo No Ibirapuera",
+    "artist": "Metro Boomin",
+    "genre": "Cantopop",
+    "songName": "Because of You"
+  },
+  {
+    "id": "4d497f62-ddee-45f0-bf9c-013bb2723ae5",
+    "album": "Yo Creo",
+    "artist": "The Strokes",
+    "genre": "Tropical",
+    "songName": "You're Beautiful"
+  },
+  {
+    "id": "9399f578-831a-4d04-ade4-3af0f7e489c1",
+    "album": "The Pinkprint",
+    "artist": "Chuck Berry",
+    "genre": "Trance",
+    "songName": "I Love Rock 'n' Roll"
+  },
+  {
+    "id": "2ff5c788-40e9-4c0f-a64e-80d7ecf5ae30",
+    "album": "Rumours",
+    "artist": "Artie Shaw",
+    "genre": "Acid Jazz",
+    "songName": "What'd I Say"
+  }
+]
